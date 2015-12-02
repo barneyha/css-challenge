@@ -73,7 +73,6 @@ a.btn-danger {
 }
 
 a.btn-danger:after {
-	content: ">>";
 	text-decoration: none;
 	font-size: 18px;
 	color: #f8f8f8;
