@@ -1,8 +1,8 @@
 $(document).ready(function() { 
-    $('i').mouseenter(function() { 
-        $('i').fadeTo('fast', 1); 
+    $('fa fa-twitter').mouseenter(function() { 
+        $('fa fa-twitter').fadeTo('fast', 1); 
     }); 
-    $('i').mouseleave(function() { 
-        $('i').fadeTo('fast',0.5); 
+    $('fa fa-twitter').mouseleave(function() { 
+        $('fa fa-twitter').fadeTo('fast',0.5); 
     }); 
 }); 
